@@ -1,2 +1,2 @@
 # NYTimes_App
-This is a simple app that fetches data from the NYT API (section arts) and after creating a scrollview in the first app page you can navigate to the Full Details of the respective article by tapping on it!
+This is a simple app that fetches data from the NYT API (section arts) and after creating a scrollview in the first app page/screen, you can navigate to the Full Details of the respective article by tapping on it! The Gesture recognizer push you to the second page/screen of the app where the full details are located and in the bottom of it you can find a button that when you click it, it redirects you through your browser to the official site where you can subscribe and read the whole article. This app is programmed both on Xamarin Framework and Flutter.
